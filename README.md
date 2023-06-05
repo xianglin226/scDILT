@@ -2,7 +2,7 @@
 A model-based and constrained deep learning framework for single-cell data integration, label transferring, and clustering
 
 ## <a name="diagram"></a>Network diagram
-![Model structure](https://github.com/xianglin226/scDILT/blob/master/codes/Fig1.png)  
+![Model structure](https://github.com/xianglin226/scDILT/blob/master/codes/Fig1.jpg)  
 
 # Packages
 Python 3.8.1
